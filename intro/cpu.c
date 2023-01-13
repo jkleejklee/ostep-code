@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[])
 {
-    if (argc != 2) {
+    if (argc != 2) {//test
 	fprintf(stderr, "usage: cpu <string>\n");
 	exit(1);
     }
